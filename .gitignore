@@ -1,0 +1,8 @@
+# binaries
+/flink
+*.exe
+
+# local data the engine will write
+/data/
+*.wal
+*.sst
